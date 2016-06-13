@@ -9,4 +9,5 @@ install:
 
 branches:
   only:
-  - wiki
+  - zhang_note
+
